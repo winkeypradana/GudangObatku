@@ -1,0 +1,18 @@
+Nomor,Nama,Kode Obat,Bentuk Obat,Klasifikasi Obat,Tanggal Kadaluarsa,Stock,Harga
+1,Amoxicillin,AmnKlk,Kapsul,Antibiotik,30-06-2024,200,8000
+2,Ibuprofen,IbnTtd,Tablet,Antiinflamasi Nonsteroid,30-09-2024,150,6000
+3,Dextromethorphan,DenSpf,Sirup,Antitusif,31-12-2024,120,10000
+4,Aspirin,AsnTtd,Tablet,Antiinflamasi Nonsteroid,31-01-2025,300,7000
+5,Simvastatin,SinTtn,Tablet,Statin,30-06-2025,250,9000
+6,Metformin,MenTta,Tablet,Biguanida,31-07-2025,200,8000
+7,Prednisone,PreTtd,Tablet,Steroid,31-10-2025,150,8500
+8,Lisinopril,LilTtE,Tablet,Inhibitor ACE,28-02-2026,180,7500
+9,Azithromycin,AznKlk,Kapsul,Antibiotik,31-05-2026,130,9500
+10,Ciprofloxacin,CinKlk,Kapsul,Antibiotik,30-06-2026,110,10000
+11,Hydrochlorothiazide,HyeTtd,Tablet,Diuretika Tiazid,31-12-2026,120,9000
+12,Metoprolol,MelTtr,Tablet,Beta Blocker,28-02-2027,150,8000
+13,Sertraline,SeeKlf,Kapsul,Inhibitor Reuptake Serotonin Selektif,30-04-2027,140,8500
+14,Atorvastatin,AtnTtn,Tablet,Statin,31-12-2026,90,8500
+15,Incidal,InlTtn,Tablet,Antihistamin,12-12-2025,120,50000
+16,Konidin,KonTtn,Tablet,Ekspektoran,10-10-2024,85,2000
+17,Siladex,SixSpf,Sirup,Antitusif,01-01-2025,80,40000
