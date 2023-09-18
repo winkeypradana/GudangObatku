@@ -14,5 +14,5 @@ Nomor,Nama,Kode Obat,Bentuk Obat,Klasifikasi Obat,Tanggal Kadaluarsa,Stock,Harga
 13,Sertraline,SeeKlf,Kapsul,Inhibitor Reuptake Serotonin Selektif,30-04-2027,140,8500
 14,Atorvastatin,AtnTtn,Tablet,Statin,31-12-2026,90,8500
 15,Incidal,InlTtn,Tablet,Antihistamin,12-12-2025,120,50000
-16,Konidin,KonTtn,Tablet,Ekspektoran,10-10-2024,85,2000
-17,Siladex,SixSpf,Sirup,Antitusif,01-01-2025,80,40000
+16,Konidin,KonTtn,Tablet,Ekspektoran,10-10-2024,75,2000
+17,Siladex,SixSpf,Sirup,Antitusif,01-01-2025,70,40000
